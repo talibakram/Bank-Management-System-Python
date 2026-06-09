@@ -1,0 +1,70 @@
+[
+    {
+        "Name": "Talib",
+        "Age": 19,
+        "Phone Number": 3046667417,
+        "Email": "talib@gmail.com",
+        "Pin": 1234,
+        "AccNo": "mv55FE684661",
+        "Balance": 55399,
+        "Transactions": [
+            "Deposited Rs.20000 on 2026-06-08 21:44:18",
+            "Transfered Rs.5000 on 2026-06-08 22:02:00",
+            "Transfered Rs.5000 on 2026-06-08 22:07:50",
+            "Transfered Rs.2000 on 2026-06-08 22:20:25",
+            "Transfered Rs.2100 on 2026-06-08 22:29:10",
+            "withdrew Rs.200 on 2026-06-09 08:50:28",
+            "withdrew Rs.100 on 2026-06-09 12:38:44",
+            "withdrew Rs.100 on 2026-06-09 12:44:18",
+            "withdrew Rs.100 on 2026-06-09 12:55:36",
+            "withdrew Rs.1 on 2026-06-09 13:01:11",
+            "Deposited Rs.50000 on 2026-06-09 13:31:01"
+        ]
+    },
+    {
+        "Name": "Masoom Ali Maitlo",
+        "Age": 18,
+        "Phone Number": 123412341234,
+        "Email": "masoomali@gmail.com",
+        "Pin": 1234,
+        "AccNo": "93006Du74ur7",
+        "Balance": 5000,
+        "Transactions": [
+            "Recieved Rs.5000 on 2026-06-08 22:02:00"
+        ]
+    },
+    {
+        "Name": "Ahmed",
+        "Age": 19,
+        "Phone Number": 1234567,
+        "Email": "ahmed@gmail.com",
+        "Pin": 1234,
+        "AccNo": "386Gc79Z09q3",
+        "Balance": 5000,
+        "Transactions": [
+            "Recieved Rs.5000 on 2026-06-08 22:07:50"
+        ]
+    },
+    {
+        "Name": "Ahsan",
+        "Age": 19,
+        "Phone Number": 987654321,
+        "Email": "ahsan@gmail.com",
+        "Pin": 1234,
+        "AccNo": "B6440f83YZ12",
+        "Balance": 2000,
+        "Transactions": [
+            "Recieved Rs.2000 on 2026-06-08 22:20:25"
+        ]
+    },
+    {
+        "Name": "Israr Ali",
+        "Age": 19,
+        "Phone Number": 111111111111,
+        "Email": "israr@gmail.com",
+        "Pin": 1234,
+        "AccNo": "zr102870o6c7",
+        "Balance": 0,
+        "Transactions": []
+    }
+]
